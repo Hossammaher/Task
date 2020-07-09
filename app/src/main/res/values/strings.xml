@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="Email">Email</string>
+    <string name="User_password">Password</string>
+    <string name="useremail">Email</string>
+    <string name="Userphone">phone</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signup">signup</string>
+</resources>
